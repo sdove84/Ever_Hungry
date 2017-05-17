@@ -4,8 +4,8 @@ Ever Hungry? is an API mash-up app that combines Google geolocation, Google Plac
 It was done as part of a six-man team over two days.
 Hackathon project involving the combination of different data sources into an application.
 
-###Languages used
-
+Languages used
+-
 - HTML
 - CSS
 - JavaScript
