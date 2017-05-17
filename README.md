@@ -2,6 +2,7 @@
 Ever Hungry? is an API mash-up app that combines Google geolocation, Google Places, Google Maps, and Flickr images for restaurant lookup.
 
 It was done as part of a six-man team over two days.
+Hackathon project involving the combination of different data sources into an application.
 
 ###Languages used
 
@@ -10,9 +11,6 @@ It was done as part of a six-man team over two days.
 - JavaScript
 - JQuery
 - AJAX
-
-See <a href="wadewooldridge.com/projects.html" target="-blank"></a> for more information.
-Hackathon project involving the combination of different data sources into an application or game
 
 ### Requirements
 - Combine at least 3 **external** resources via AJAX requests and present their information in an application
